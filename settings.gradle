@@ -1,1 +1,3 @@
 rootProject.name = 'finance-administration-system'
+
+include 'user-module'
