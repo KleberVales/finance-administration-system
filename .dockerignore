@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Build
+build/
+.gradle/
+target/
+*.log
+*.tar.gz
+*.zip
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.metadata/
+
+# Docker
+docker-compose*.yml
+Dockerfile
+.dockerignore
+
+# Logs
+logs/
+*.log
+
+# Testes e relatórios
+test-results/
+test-output/
+reports/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+.DS_Store
