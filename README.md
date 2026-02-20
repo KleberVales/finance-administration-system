@@ -9,9 +9,9 @@
 
 ---
 
-🧾 Finance Administration System
-
 A financial management and control system developed in Java with Spring Boot, focused on scalability, modern architecture, and messaging integrations. The goal is to provide a robust foundation for managing financial flows in corporate or personal applications.
+
+## 💡 About this project
 
 
 
