@@ -26,6 +26,8 @@ The intention is to serve both as a real-world project and as a practical basis 
 
 ## Technologies Used
 
+The project was built with:
+
 ---
 
 ## ✉️ Contact
