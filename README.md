@@ -42,7 +42,8 @@ The project was built with:
 ✔️ Complete CRUD for financial transactions\
 ✔️ Filtering by date/category/user\
 ✔️ Security with JWT tokens\
-✔️ Communication with Kafka for transaction events
+✔️ Communication with Kafka for transaction events\
+✔️ Layered organization (Controller → Service → Repository)
 
 
 ---
