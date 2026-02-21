@@ -36,6 +36,8 @@ The project was built with:
 - APIs REST
 - Gradle
 
+## 📦 Main Features
+
 ---
 
 ## ✉️ Contact
