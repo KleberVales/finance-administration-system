@@ -40,7 +40,8 @@ The project was built with:
 
 ✔️ User registration and authentication\
 ✔️ Complete CRUD for financial transactions\
-✔️ Filtering by date/category/user
+✔️ Filtering by date/category/user\
+✔️ Security with JWT tokens
 
 
 ---
