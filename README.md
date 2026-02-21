@@ -39,7 +39,8 @@ The project was built with:
 ## 📦 Main Features
 
 ✔️ User registration and authentication\
-✔️ Complete CRUD for financial transactions
+✔️ Complete CRUD for financial transactions\
+✔️ Filtering by date/category/user
 
 
 ---
