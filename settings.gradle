@@ -1,3 +1,4 @@
 rootProject.name = 'finance-administration-system'
 
 include 'user-service'
+include 'auth-service'
