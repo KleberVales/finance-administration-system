@@ -1,4 +1,4 @@
-package com.ecommerce.financeadministrationsystem;
+package com.financial.financeadministrationsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
