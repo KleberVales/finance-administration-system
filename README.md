@@ -31,4 +31,3 @@ The project was built with:
 - Java
 - Spring Boot
 - Spring Security (JWT)
-- PostgreSQL
