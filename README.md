@@ -15,4 +15,3 @@ A financial management and control system developed in Java with Spring Boot, fo
 
 This repository contains the source code for a backend system for financial control, including functionalities such as:
 
-- 📊 Transaction registration and management (income and expenses)
