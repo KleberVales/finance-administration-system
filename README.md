@@ -43,5 +43,3 @@ The project was built with:
 ✔️ Filtering by date/category/user\
 ✔️ Security with JWT tokens\
 ✔️ Communication with Kafka for transaction events\
-✔️ Layered organization (Controller → Service → Repository)
-
