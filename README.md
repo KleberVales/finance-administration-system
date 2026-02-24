@@ -18,4 +18,3 @@ This repository contains the source code for a backend system for financial cont
 - 📊 Transaction registration and management (income and expenses)
 - 🛠️ REST APIs for integration with frontends or microservices
 - 🔐 Authentication and security (e.g., JWT tokens)
-- 🗃️ Data persistence with PostgreSQL
