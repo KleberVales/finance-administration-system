@@ -23,6 +23,18 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
+    // BOM do Spring Boot para gerenciar versões
+    implementation platform("org.springframework.boot:spring-boot-dependencies:3.2.4")
+
+    implementation project(':user-service')
+    implementation project(':auth-service')
+
+    // Spring MVC
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // Spring Data JPA
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+
 
 
 }

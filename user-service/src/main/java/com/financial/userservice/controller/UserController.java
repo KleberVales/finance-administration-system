@@ -1,12 +1,11 @@
 package com.financial.userservice.controller;
 
+import com.financial.userservice.dto.UserDTO;
+import com.financial.userservice.dto.UserLoginDTO;
 import com.financial.userservice.dto.UserRequestDTO;
 import com.financial.userservice.dto.UserResponseDTO;
 import com.financial.userservice.service.UserService;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/user")
@@ -28,4 +27,12 @@ public class UserController {
         return userResponseDTO;
 
     }
+
+
+    @GetMapping("/email/{email}")
+    public UserDTO login(@PathVariable String email) {
+        return userService.getUserByEmail(email);
+    }
+
+
 }
