@@ -45,7 +45,3 @@ The project was built with:
 ✔️ Communication with Kafka for transaction events\
 ✔️ Layered organization (Controller → Service → Repository)
 
-
----
-
-## ✉️ Contact
