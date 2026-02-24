@@ -49,5 +49,3 @@ The project was built with:
 ---
 
 ## ✉️ Contact
-
-Email: klebervales.dev@gmail.com
