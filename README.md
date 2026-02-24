@@ -29,4 +29,3 @@ The intention is to serve both as a real-world project and as a practical basis 
 The project was built with:
 
 - Java
-- Spring Boot
