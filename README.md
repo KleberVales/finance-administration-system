@@ -34,6 +34,5 @@ The project was built with:
 - PostgreSQL
 - Apache Kafka
 - APIs REST
-- Gradle
 
 
