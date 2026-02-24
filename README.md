@@ -38,4 +38,3 @@ The project was built with:
 
 ## 📦 Main Features
 
-✔️ User registration and authentication\
