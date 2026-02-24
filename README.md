@@ -21,6 +21,3 @@ This repository contains the source code for a backend system for financial cont
 - 🗃️ Data persistence with PostgreSQL
 - 🪶 Asynchronous communication via Kafka
 - 🚀 Modular and organized structure
-
-The intention is to serve both as a real-world project and as a practical basis for continuous study and learning with modern technologies in the Java/Spring ecosystem.
-
