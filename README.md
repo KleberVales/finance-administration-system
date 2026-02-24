@@ -33,6 +33,5 @@ The project was built with:
 - Spring Security (JWT)
 - PostgreSQL
 - Apache Kafka
-- APIs REST
 
 
