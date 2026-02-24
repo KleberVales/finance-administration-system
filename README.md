@@ -20,4 +20,3 @@ This repository contains the source code for a backend system for financial cont
 - 🔐 Authentication and security (e.g., JWT tokens)
 - 🗃️ Data persistence with PostgreSQL
 - 🪶 Asynchronous communication via Kafka
-- 🚀 Modular and organized structure
