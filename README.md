@@ -18,6 +18,7 @@ This project was built with a focus on clean architecture, scalability, and real
 - ✅ Dashboard with summarized financial insights
 - ✅ CRUD operations for financial records
 - ✅ Data persistence with relational database
+- ✅ RESTful API
 
 
 
