@@ -19,7 +19,7 @@ This project was built with a focus on clean architecture, scalability, and real
 - ✅ CRUD operations for financial records
 - ✅ Data persistence with relational database
 - ✅ RESTful API architecture
-- ✅ Modular and
+- ✅ Modular and scalable design
 
 
 
