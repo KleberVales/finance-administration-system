@@ -9,7 +9,7 @@
 
 A robust financial management system designed to handle administrative and financial operations, including transaction control, reporting, and data organization.
 
-This project was built with a focus on clean architecture, scalability, and real-world business scenarios,
+This project was built with a focus on clean architecture, scalability, and real-world business scenarios, making it suitable for both learning and production use.
 
 
 
