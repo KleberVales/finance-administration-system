@@ -9,6 +9,8 @@
 
 A robust financial management system designed to handle administrative and financial operations, including transaction control, reporting, and data organization.
 
+This project was built with a focus on
+
 
 
 
