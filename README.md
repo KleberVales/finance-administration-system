@@ -62,8 +62,7 @@ finance-administration-system/
 │
 ├── docker/
 ├── README.md
-
-
+└── build.gradle / pom.xml
 
 ```
 
