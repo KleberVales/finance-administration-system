@@ -54,9 +54,7 @@ finance-administration-system/
 │   │   │       ├── service/
 │   │   │       ├── repository/
 │   │   │       ├── model/
-
-
-
+│   │   │       └── config/
 
 ```
 
