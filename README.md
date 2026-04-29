@@ -57,6 +57,8 @@ finance-administration-system/
 │   │   │       └── config/
 │   │   └── resources/
 │   │       ├── application.yml
+│   │       └── db/
+
 
 
 
