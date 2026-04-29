@@ -49,6 +49,8 @@ finance-administration-system/
 ├── src/
 │   ├── main/
 │   │   ├── java/
+│   │   │   └── com/finance/
+
 
 
 ```
