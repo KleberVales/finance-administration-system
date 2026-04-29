@@ -28,4 +28,5 @@ This project was built with a focus on clean architecture, scalability, and real
 - Java (likely Java 17+ or 21)
 - Spring Boot
 - Spring Data JPA
+- Hibernate
 
