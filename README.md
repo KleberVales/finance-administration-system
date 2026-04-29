@@ -53,6 +53,8 @@ finance-administration-system/
 │   │   │       ├── controller/
 │   │   │       ├── service/
 │   │   │       ├── repository/
+│   │   │       ├── model/
+
 
 
 
