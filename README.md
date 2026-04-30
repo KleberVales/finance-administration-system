@@ -87,6 +87,7 @@ spring:
 datasource:
     url: jdbc:mysql://localhost:3306/finance_db
     username: root
+    password: your_password
 
 ```
 
