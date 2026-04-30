@@ -86,8 +86,7 @@ Edit application.yml or application.properties:
 spring:
 datasource:
     url: jdbc:mysql://localhost:3306/finance_db
-    
-  
+    username: root
 
 ```
 
