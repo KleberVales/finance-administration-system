@@ -77,6 +77,8 @@ cd finance-administration-system
 
 ```
 
+2. Configure 
+
 
 
 
