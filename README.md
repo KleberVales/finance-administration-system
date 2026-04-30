@@ -84,6 +84,8 @@ Edit application.yml or application.properties:
 ```yaml
 
 spring:
+datasource:
+    
   
 
 ```
