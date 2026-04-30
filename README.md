@@ -68,7 +68,7 @@ finance-administration-system/
 
 ## 🚀 Getting Started
 
-1. Clone 
+1. Clone the repository
 
 
 
