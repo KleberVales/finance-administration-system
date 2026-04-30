@@ -96,7 +96,7 @@ datasource:
 Using Maven:
 
 ```bash
-./mvnw
+./mvnw spring-boot:run
 ```
 
 
