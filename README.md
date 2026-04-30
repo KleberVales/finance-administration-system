@@ -95,6 +95,10 @@ datasource:
 
 Using Maven:
 
+```bash
+./mvnw
+```
+
 
 
 
