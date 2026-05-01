@@ -101,6 +101,12 @@ Using Maven:
 
 Using Gradle:
 
+```bash
+
+./gradlew bootRun
+
+```
+
 
 
 
