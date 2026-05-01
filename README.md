@@ -115,4 +115,6 @@ http://localhost:8080/api
 
 ## 📊 Example Endpoints
 
-| Method | Endpoint           | 
+| Method | Endpoint           | Description            |
+
+
