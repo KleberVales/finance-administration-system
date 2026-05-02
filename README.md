@@ -120,7 +120,8 @@ http://localhost:8080/api
 | GET    | /transactions      | List all transactions  |
 | POST   | /transactions      | Create new transaction |
 | GET    | /transactions/{id} | Get transaction by ID  |
-| PUT    | /transactions/{id} | Update transaction     |
+| PUT    | /transactions/{id} | 
+
 
 
 
