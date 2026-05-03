@@ -125,5 +125,5 @@ http://localhost:8080/api
 
 ## 🧠 Architecture
 
-The system follows 
+The system follows a layered architecture:
 
