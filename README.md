@@ -127,5 +127,5 @@ http://localhost:8080/api
 
 The system follows a layered architecture:
 
-- Controller Layer → 
+- Controller Layer → Handles HTTP requests
 
