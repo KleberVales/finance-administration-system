@@ -123,24 +123,5 @@ http://localhost:8080/api
 | PUT    | /transactions/{id} | Update transaction     |
 | DELETE | /transactions/{id} | Delete transaction     |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🧠 
 
