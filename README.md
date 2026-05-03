@@ -130,5 +130,5 @@ The system follows a layered architecture:
 - Controller Layer → Handles HTTP requests
 - Service Layer → Business logic
 - Repository Layer → Data access
-- Model Layer → 
+- Model Layer → Entities and DTOs
 
