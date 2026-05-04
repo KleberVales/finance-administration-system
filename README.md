@@ -151,6 +151,7 @@ or
 ## 📦 Future Improvements
 
 - 🔐 Authentication & Authorization (Spring Security + JWT)
+- 📈 Advanced 
 
 
 
