@@ -160,7 +160,7 @@ or
 
 Contributions are welcome!
 
-1. Fork 
+1. Fork the project
 
 
 
