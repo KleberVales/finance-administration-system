@@ -150,7 +150,7 @@ or
 
 ## 📦 Future Improvements
 
-- 🔐 Authentication 
+- 🔐 Authentication & Authorization 
 
 
 
