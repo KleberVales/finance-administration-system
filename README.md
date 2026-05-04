@@ -154,7 +154,7 @@ or
 - 📈 Advanced financial reports
 - 📊 Graph dashboards
 - ☁️ Cloud deployment (AWS / Azure)
-- 🧩 Microservices 
+- 🧩 Microservices architecture
 
 
 
