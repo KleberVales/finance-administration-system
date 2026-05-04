@@ -150,7 +150,7 @@ or
 
 ## 📦 Future Improvements
 
-- 🔐 Authentication & Authorization (Spring )
+- 🔐 Authentication & Authorization (Spring Security + JWT)
 
 
 
