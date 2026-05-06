@@ -168,7 +168,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project 
+This project is licensed 
 
 
 
