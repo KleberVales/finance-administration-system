@@ -168,4 +168,4 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed 
+This project 
