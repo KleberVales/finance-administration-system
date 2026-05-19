@@ -158,5 +158,5 @@ or
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions
 
