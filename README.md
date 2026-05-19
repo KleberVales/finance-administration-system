@@ -161,4 +161,4 @@ or
 Contributions are welcome!
 
 1. Fork the project
-2. Create a new
+2. Create
