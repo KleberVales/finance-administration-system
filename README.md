@@ -161,4 +161,4 @@ or
 Contributions are welcome!
 
 1. Fork the project
-2. Create a new branch (feature/your-feature)
+2. Create a new branch
