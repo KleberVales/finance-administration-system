@@ -153,4 +153,4 @@ or
 - 🔐 Authentication & Authorization (Spring Security + JWT)
 - 📈 Advanced financial reports
 - 📊 Graph dashboards
-- ☁️ Cloud deploymen
+- ☁️ Cloud 
