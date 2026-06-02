@@ -132,4 +132,4 @@ The system follows a layered architecture:
 - Repository Layer → Data access
 - Model Layer → Entities and DTOs
 
-This separation improves maintainability, testability, and scalability.
+This separation improves maintainability, testability
