@@ -142,8 +142,3 @@ Run tests using:
 ./mvnw test
 ```
 
-or
-
-```bash
-```
-
