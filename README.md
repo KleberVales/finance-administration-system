@@ -145,6 +145,5 @@ Run tests using:
 or
 
 ```bash
-./gradlew 
 ```
 
