@@ -133,5 +133,3 @@ The system follows a layered architecture:
 - Model Layer → Entities and DTOs
 
 This separation improves maintainability, testability, and scalability.
-
-## 🧪 
