@@ -136,5 +136,5 @@ This separation improves maintainability, testability, and scalability.
 
 ## 🧪 Testing
 
-Run tests using:
+Run tests
 
