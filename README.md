@@ -150,4 +150,4 @@ or
 
 ## 📦 Future Improvements
 
-- 🔐 Authentication 
+- 🔐 
