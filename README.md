@@ -149,5 +149,3 @@ or
 ```
 
 ## 📦 Future Improvements
-
-- 🔐 
