@@ -129,4 +129,3 @@ The system follows a layered architecture:
 
 - Controller Layer → Handles HTTP requests
 - Service Layer → Business logic
-- Repository
