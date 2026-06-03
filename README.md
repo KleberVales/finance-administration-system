@@ -118,4 +118,4 @@ http://localhost:8080/api
 | Method | Endpoint           | Description            |
 | ------ | ------------------ | ---------------------- |
 | GET    | /transactions      | List all transactions  |
-| POST   | /transactions      |
+| POST   |
