@@ -124,5 +124,3 @@ http://localhost:8080/api
 | DELETE | /transactions/{id} | Delete transaction     |
 
 ## 🧠 Architecture
-
-The system
