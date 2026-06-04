@@ -112,5 +112,3 @@ Using Gradle:
 ```text
 http://localhost:8080/api
 ```
-
-## 📊 
