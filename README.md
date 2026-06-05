@@ -94,6 +94,3 @@ datasource:
 3. Run the application
 
 Using Maven:
-
-```bash
-```
