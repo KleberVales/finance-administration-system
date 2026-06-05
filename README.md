@@ -107,5 +107,5 @@ Using Gradle:
 
 ```
 
-4. Access the API
+4. Acces
 
