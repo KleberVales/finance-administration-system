@@ -110,5 +110,5 @@ Using Gradle:
 4. Access the API
 
 ```text
-http://localhost
+http:
 ```
