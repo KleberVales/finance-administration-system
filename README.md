@@ -96,5 +96,5 @@ datasource:
 Using Maven:
 
 ```bash
-./mvnw spring
+./mvnw
 ```
