@@ -103,8 +103,6 @@ Using Gradle:
 
 ```bash
 
-./gradlew 
-
 ```
 
 
