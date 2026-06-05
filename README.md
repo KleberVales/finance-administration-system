@@ -101,9 +101,6 @@ Using Maven:
 
 Using Gradle:
 
-```bash
-
-```
 
 
 
