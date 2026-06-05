@@ -99,8 +99,6 @@ Using Maven:
 ./mvnw spring-boot:run
 ```
 
-Using Gradle:
-
-
+Using
 
 
