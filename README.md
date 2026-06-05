@@ -103,7 +103,7 @@ Using Gradle:
 
 ```bash
 
-./gradlew bootRun
+./gradlew 
 
 ```
 
