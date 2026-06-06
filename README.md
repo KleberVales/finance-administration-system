@@ -81,7 +81,5 @@ cd finance-administration-system
 
 Edit application.yml or application.properties:
 
-```yaml
 
-```
 
