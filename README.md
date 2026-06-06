@@ -73,6 +73,5 @@ finance-administration-system/
 ```bash
 
 git clone https://github.com/KleberVales/finance-administration-system.git
-cd finance-administration-system
-
+cd finance-administration
 ```
