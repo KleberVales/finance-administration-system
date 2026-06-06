@@ -79,6 +79,4 @@ cd finance-administration-system
 
 2. Configure the database
 
-Edit application.yml
-
-
+Edit application
