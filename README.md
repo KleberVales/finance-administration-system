@@ -85,7 +85,7 @@ Edit application.yml or application.properties:
 
 spring:
 datasource:
-    url: jdbc:
+    url:
 
 ```
 
