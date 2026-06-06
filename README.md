@@ -85,7 +85,7 @@ Edit application.yml or application.properties:
 
 spring:
 datasource:
-    url: jdbc:mysql://localhost:3306
+    url: jdbc:mysql:
 
 ```
 
