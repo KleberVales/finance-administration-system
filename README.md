@@ -76,5 +76,3 @@ git clone https://github.com/KleberVales/finance-administration-system.git
 cd finance-administration-system
 
 ```
-
-2. 
