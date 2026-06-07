@@ -72,5 +72,5 @@ finance-administration-system/
 
 ```bash
 
-git clone https://github
+git clone https:
 ```
