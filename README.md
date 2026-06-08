@@ -68,5 +68,4 @@ finance-administration-system/
 
 ## 🚀 Getting Started
 
-1. Clone the
-
+1. Clone 
