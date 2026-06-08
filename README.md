@@ -66,5 +66,4 @@ finance-administration-system/
 
 ```
 
-## 🚀 Getting
-
+## 🚀 
