@@ -66,4 +66,3 @@ finance-administration-system/
 
 ```
 
-## 🚀 
