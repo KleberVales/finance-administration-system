@@ -60,7 +60,6 @@ finance-administration-system/
 │   │       └── db/
 │   └── test/
 │
-├── 
 
 
 
