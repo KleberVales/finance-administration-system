@@ -62,7 +62,7 @@ finance-administration-system/
 │
 ├── 
 ├── 
-└── 
+
 
 ```
 
