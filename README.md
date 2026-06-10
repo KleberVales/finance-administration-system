@@ -58,7 +58,7 @@ finance-administration-system/
 │   │   └── resources/
 │   │       ├── application.yml
 │   │       └── db/
-│   └── test/
+│   └── 
 
 
 ```
