@@ -56,6 +56,5 @@ finance-administration-system/
 │   │   │       ├── model/
 │   │   │       └── config/
 │   │   └── resources/
-│   │    
 ```
 
