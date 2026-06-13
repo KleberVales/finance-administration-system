@@ -48,6 +48,5 @@ finance-administration-system/
 │
 ├── src/
 │   ├── main/
-│   │  
 ```
 
