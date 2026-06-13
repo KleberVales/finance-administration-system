@@ -52,7 +52,6 @@ finance-administration-system/
 │   │   │   └── com/finance/
 │   │   │       ├── controller/
 │   │   │       ├── service/
-│  
 
 ```
 
