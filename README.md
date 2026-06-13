@@ -50,7 +50,7 @@ finance-administration-system/
 │   ├── main/
 │   │   ├── java/
 │   │   │   └── com/finance/
-│   │   │       ├── 
+│   │   │      
 
 ```
 
