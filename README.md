@@ -21,4 +21,4 @@ This project was built with a focus on clean architecture, scalability, and real
 - ✅ RESTful API architecture
 - ✅ Modular and scalable design
 
-## 🛠️ Tech 
+## 🛠️ 
