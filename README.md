@@ -13,4 +13,4 @@ This project was built with a focus on clean architecture, scalability, and real
 
 ## 📌 Features
 
-- ✅ Financial transaction management (income & expenses)
+- ✅ Financial transaction management (income & 
