@@ -15,5 +15,5 @@ This project was built with a focus on clean architecture, scalability, and real
 
 - ✅ Financial transaction management (income & expenses)
 - ✅ Categorization of financial data
-- ✅ Dashboard with summarized financial
+- ✅ Dashboard with summarized
 
