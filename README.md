@@ -11,4 +11,3 @@ A robust financial management system designed to handle administrative and finan
 
 This project was built with a focus on clean architecture, scalability, and real-world business scenarios, making it suitable for both learning and production use.
 
-## 📌 
