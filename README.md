@@ -1,2 +1,2 @@
-# 💰 Finance Administration System
+# 💰 Finance Administration
 
