@@ -1,3 +1,3 @@
 # 💰 Finance Administration System
 
-![Java](https
+![Java]
