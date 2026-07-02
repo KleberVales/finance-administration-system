@@ -1,3 +1,2 @@
 # 💰 Finance Administration System
 
-![Java]
