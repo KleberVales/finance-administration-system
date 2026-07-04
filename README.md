@@ -1,4 +1,4 @@
 # 💰 Finance Administration System
 
-A modern
+A modern Finance Administration System
 
