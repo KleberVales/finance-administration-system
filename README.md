@@ -10,3 +10,4 @@ This project was developed to strengthen backend development skills while applyi
 - Income and expense tracking
 - Category management
 - RESTful API
+- Input validation
