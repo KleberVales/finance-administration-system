@@ -7,3 +7,4 @@ This project was developed to strengthen backend development skills while applyi
 ## 🚀 Features
 
 - Financial transaction management
+- Income and expense tracking
