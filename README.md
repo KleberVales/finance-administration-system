@@ -14,4 +14,4 @@ This project was developed to strengthen backend development skills while applyi
 - Exception handling
 - Database persistence
 - Layered architecture
-- Clean and maintainable 
+- Clean and maintainable code
