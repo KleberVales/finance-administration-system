@@ -18,3 +18,5 @@ This project was developed to strengthen backend development skills while applyi
 - Ready for future enhancements
 
 ## 🛠️ Tech Stack
+
+### Backend
