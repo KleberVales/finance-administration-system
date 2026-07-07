@@ -15,4 +15,4 @@ This project was developed to strengthen backend development skills while applyi
 - Database persistence
 - Layered architecture
 - Clean and maintainable code
-- Ready 
+- Ready for future 
