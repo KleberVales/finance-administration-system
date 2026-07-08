@@ -23,4 +23,4 @@ This project was developed to strengthen backend development skills while applyi
 
 - Java 21
 - Spring Boot
-- Spring 
+- Spring Data 
