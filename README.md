@@ -36,3 +36,6 @@ This project was developed to strengthen backend development skills while applyi
 
 ### Development Tools
 
+- Docker
+
+
