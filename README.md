@@ -32,3 +32,5 @@ This project was developed to strengthen backend development skills while applyi
 
 ### Build Tool
 
+- Gradle 
+
