@@ -49,6 +49,7 @@ src
 │ │ ├── controller
 │ │ ├── service
 │ │ ├── repository
+│ │ ├── entity
 ```
 
 
