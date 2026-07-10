@@ -48,6 +48,7 @@ src
 │ ├── java
 │ │ ├── controller
 │ │ ├── service
+│ │ ├── repository
 ```
 
 
