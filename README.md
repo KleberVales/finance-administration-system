@@ -62,6 +62,8 @@ src
 Prerequisites
 
 - Java 21+
+- PostgreSQL
+
 
 
 
