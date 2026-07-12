@@ -57,7 +57,7 @@ src
 └── test
 ```
 
-## ⚙️ Getting 
+## ⚙️ Getting Started
 
 
 
