@@ -63,6 +63,7 @@ Prerequisites
 
 - Java 21+
 - PostgreSQL
+- Docker (optional)
 
 
 
