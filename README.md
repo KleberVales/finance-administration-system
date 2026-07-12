@@ -61,6 +61,9 @@ src
 
 Prerequisites
 
+- Java 21+
+
+
 
 
 
