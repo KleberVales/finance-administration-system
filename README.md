@@ -66,7 +66,7 @@ Prerequisites
 - Docker (optional)
 - Git
 
-Clone 
+Clone the 
 
 
 
