@@ -70,7 +70,7 @@ Clone the repository
 
 ```bash
 
-git clone https://github.com/KleberVales/finance
+git clone https://github.com/KleberVales/finance-administration
 
 ```
 
