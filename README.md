@@ -70,7 +70,7 @@ Clone the repository
 
 ```bash
 
-git clone 
+git clone https:
 
 ```
 
