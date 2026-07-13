@@ -68,6 +68,12 @@ Prerequisites
 
 Clone the repository
 
+```bash
+
+git
+
+```
+
 
 
 
