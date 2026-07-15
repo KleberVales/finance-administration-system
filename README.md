@@ -73,7 +73,7 @@ Clone the repository
 git clone https://github.com/KleberVales/finance-administration-system.git
 
 ```
-Configure 
+Configure the 
 
 
 
