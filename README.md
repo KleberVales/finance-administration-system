@@ -66,7 +66,7 @@ src
 - Docker (optional)
 - Git
 
-Clone the repository
+**Clone the repository**
 
 ```bash
 
