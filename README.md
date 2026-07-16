@@ -59,7 +59,7 @@ src
 
 ## ⚙️ Getting Started
 
-Prerequisites
+**Prerequisites**
 
 - Java 21+
 - PostgreSQL
