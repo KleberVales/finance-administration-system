@@ -73,7 +73,7 @@ src
 git clone https://github.com/KleberVales/finance-administration-system.git
 
 ```
-Configure the database
+**Configure the database**
 
 Update the database configuration inside:
 
