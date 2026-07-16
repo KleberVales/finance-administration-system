@@ -77,7 +77,7 @@ git clone https://github.com/KleberVales/finance-administration-system.git
 
 Update the database configuration inside:
 
-src/main/resources/application.
+src/main/resources/application.properties
 
 
 
