@@ -85,7 +85,7 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/finance_db
 spring.datasource.username=postgres
 spring.datasource.password=your_password
 
-## ▶️ Running 
+## ▶️ Running the 
 
 
 
