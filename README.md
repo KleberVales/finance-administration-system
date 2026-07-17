@@ -82,7 +82,7 @@ src/main/resources/application.properties
 Example:
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/finance_db
-spring.datasource.
+spring.datasource.username
 
 
 
