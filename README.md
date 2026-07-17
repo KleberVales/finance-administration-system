@@ -81,7 +81,8 @@ src/main/resources/application.properties
 
 Example:
 
-spring.
+spring.datasource.
+
 
 
 
