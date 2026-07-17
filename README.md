@@ -87,7 +87,8 @@ spring.datasource.password=your_password
 
 ## ▶️ Running the Application
 
-Using 
+Using Gradle:
+
 
 
 
