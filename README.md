@@ -83,6 +83,7 @@ Example:
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/finance_db
 spring.datasource.username=postgres
+spring.
 
 
 
