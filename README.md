@@ -81,7 +81,7 @@ src/main/resources/application.properties
 
 Example:
 
-spring.datasource.url=jdbc:postgresql:
+spring.datasource.url=jdbc:postgresql://localhost:
 
 
 
