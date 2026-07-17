@@ -79,6 +79,9 @@ Update the database configuration inside:
 
 src/main/resources/application.properties
 
+Example:
+
+
 
 
 
