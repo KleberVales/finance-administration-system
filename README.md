@@ -89,7 +89,7 @@ spring.datasource.password=your_password
 
 Using Gradle:
 
-./gradlew 
+./gradlew bootRun
 
 
 
