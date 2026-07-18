@@ -93,7 +93,7 @@ Using Gradle:
 
 Or on Windows:
 
-gradlew.bat 
+gradlew.bat bootRun
 
 
 
