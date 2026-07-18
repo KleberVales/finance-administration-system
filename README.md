@@ -95,7 +95,7 @@ Or on Windows:
 
 gradlew.bat bootRun
 
-The application 
+The application will start on:
 
 
 
