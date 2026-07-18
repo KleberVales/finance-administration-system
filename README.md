@@ -93,6 +93,8 @@ Using Gradle:
 
 Or on Windows:
 
+gradlew.bat 
+
 
 
 
