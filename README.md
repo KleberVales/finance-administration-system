@@ -91,7 +91,7 @@ Using Gradle:
 
 ./gradlew bootRun
 
-Or on 
+Or on Windows:
 
 
 
