@@ -105,6 +105,7 @@ Example endpoints:
 |--------|---------|---------------|
 | GET	| /api/...	| Retrieve resources |
 | POST	| /api/...	| Create a new resource |
+| PUT	| /api/.../{id} |	Update a resource |
 
 
 
