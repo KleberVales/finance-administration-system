@@ -99,7 +99,7 @@ The application will start on:
 
 ## 📌 API Endpoints
 
-Example 
+Example endpoints:
 
 
 
