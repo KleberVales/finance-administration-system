@@ -97,7 +97,7 @@ gradlew.bat bootRun
 
 The application will start on:
 
-## 📌 
+## 📌 API Endpoints
 
 
 
