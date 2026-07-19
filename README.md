@@ -101,6 +101,9 @@ The application will start on:
 
 Example endpoints:
 
+| Method	| Endpoint |	Description |
+|--------|---------|---------------|
+
 
 
 
