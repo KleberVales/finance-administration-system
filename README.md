@@ -103,6 +103,8 @@ Example endpoints:
 
 | Method	| Endpoint |	Description |
 |--------|---------|---------------|
+| GET	| /api/...	| Retrieve resources |
+
 
 
 
