@@ -104,6 +104,8 @@ Example endpoints:
 | Method	| Endpoint |	Description |
 |--------|---------|---------------|
 | GET	| /api/...	| Retrieve resources |
+| POST	| /api/...	| Create a new resource |
+
 
 
 
