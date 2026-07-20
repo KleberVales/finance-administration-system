@@ -118,7 +118,7 @@ Run all tests:
 ./gradlew test
 ```
 
-## 📈 Future 
+## 📈 Future Improvements
 
 
 
