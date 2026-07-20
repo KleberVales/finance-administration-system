@@ -124,6 +124,7 @@ Run all tests:
 - Spring Security
 - User management
 - Dashboard and analytics
+- Reports
 
 
 
