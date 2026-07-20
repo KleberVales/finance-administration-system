@@ -108,7 +108,7 @@ Example endpoints:
 | PUT	| /api/.../{id} |	Update a resource |
 | DELETE	| /api/.../{id} |	Delete a resource |
 
-Replace the endpoints above with the actual routes 
+Replace the endpoints above with the actual routes implemented 
 
 
 
