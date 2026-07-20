@@ -122,7 +122,7 @@ Run all tests:
 
 - JWT Authentication
 - Spring Security
-- User 
+- User management
 
 
 
