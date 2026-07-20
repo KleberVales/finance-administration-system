@@ -120,7 +120,7 @@ Run all tests:
 
 ## 📈 Future Improvements
 
-- JWT 
+- JWT Authentication
 
 
 
