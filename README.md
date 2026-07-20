@@ -125,7 +125,7 @@ Run all tests:
 - User management
 - Dashboard and analytics
 - Reports
-- Docker 
+- Docker Compose
 
 
 
