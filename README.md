@@ -115,7 +115,7 @@ Replace the endpoints above with the actual routes implemented in the project.
 Run all tests:
 
 ```bash
-./gradlew 
+./gradlew test
 ```
 
 
