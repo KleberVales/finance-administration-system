@@ -112,7 +112,9 @@ Replace the endpoints above with the actual routes implemented in the project.
 
 ## 🧪 Testing
 
-Run 
+Run all tests:
+
+
 
 
 
