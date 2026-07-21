@@ -127,7 +127,7 @@ Run all tests:
 - Reports
 - Docker Compose
 - CI/CD pipeline
-- Unit and 
+- Unit and Integration 
 
 
 
