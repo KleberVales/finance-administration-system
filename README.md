@@ -126,6 +126,7 @@ Run all tests:
 - Dashboard and analytics
 - Reports
 - Docker Compose
+- CI/CD 
 
 
 
