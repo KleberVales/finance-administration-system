@@ -139,6 +139,7 @@ Run all tests:
 - Spring Data JPA
 - Bean Validation
 - Exception Handling
+- PostgreSQL 
 
 
 
