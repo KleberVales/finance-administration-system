@@ -133,7 +133,8 @@ Run all tests:
 
 ## 📚 What I Practiced
 
-- REST 
+- REST API development
+
 
 
 
