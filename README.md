@@ -146,6 +146,9 @@ Run all tests:
 
 ## 🤝 Contributing
 
+- Contributions, issues
+
+
 
 
 
