@@ -128,7 +128,7 @@ Run all tests:
 - Docker Compose
 - CI/CD pipeline
 - Unit and Integration Tests
-- API 
+- API documentation 
 
 
 
