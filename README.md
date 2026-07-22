@@ -142,7 +142,7 @@ Run all tests:
 - PostgreSQL integration
 - Clean Architecture
 - Object-Oriented Programming
-- Git 
+- Git workflow
 
 
 
