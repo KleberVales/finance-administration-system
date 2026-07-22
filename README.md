@@ -146,7 +146,9 @@ Run all tests:
 
 ## 🤝 Contributing
 
-- Contributions, issues, and feature requests are 
+- Contributions, issues, and feature requests are welcome.
+
+
 
 
 
