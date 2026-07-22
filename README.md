@@ -140,7 +140,7 @@ Run all tests:
 - Bean Validation
 - Exception Handling
 - PostgreSQL integration
-- Clean 
+- Clean Architecture
 
 
 
