@@ -141,6 +141,7 @@ Run all tests:
 - Exception Handling
 - PostgreSQL integration
 - Clean Architecture
+- Object-
 
 
 
