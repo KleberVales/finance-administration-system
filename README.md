@@ -136,7 +136,7 @@ Run all tests:
 - REST API development
 - Spring Boot fundamentals
 - Dependency Injection
-- Spring 
+- Spring Data JPA
 
 
 
