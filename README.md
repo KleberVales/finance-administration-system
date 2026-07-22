@@ -138,7 +138,7 @@ Run all tests:
 - Dependency Injection
 - Spring Data JPA
 - Bean Validation
-- Exception 
+- Exception Handling
 
 
 
