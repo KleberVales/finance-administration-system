@@ -147,7 +147,7 @@ Run all tests:
 ## 🤝 Contributing
 
 - Contributions, issues, and feature requests are welcome.
-- Feel free 
+- Feel free to fork the 
 
 
 
