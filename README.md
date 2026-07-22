@@ -129,4 +129,5 @@ Run all tests:
 - CI/CD pipeline
 - Unit and Integration Tests
 - API documentation with Swagger/OpenAPI
+- Microservices 
 
