@@ -134,7 +134,8 @@ Run all tests:
 ## 📚 What I Practiced
 
 - REST API development
-- Spring 
+- Spring Boot fundamentals
+
 
 
 
