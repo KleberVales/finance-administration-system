@@ -137,7 +137,7 @@ Run all tests:
 - Spring Boot fundamentals
 - Dependency Injection
 - Spring Data JPA
-- Bean 
+- Bean Validation
 
 
 
