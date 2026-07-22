@@ -128,21 +128,5 @@ Run all tests:
 - Docker Compose
 - CI/CD pipeline
 - Unit and Integration Tests
-- API documentation with 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- API documentation with Swagger/OpenAPI
 
