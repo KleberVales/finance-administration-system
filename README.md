@@ -147,7 +147,7 @@ Run all tests:
 ## 🤝 Contributing
 
 - Contributions, issues, and feature requests are welcome.
-- Feel free to fork the repository and submit a Pull 
+- Feel free to fork the repository and submit a Pull Request.
 
 
 
