@@ -151,7 +151,7 @@ Run all tests:
 
 ## 📄 License
 
-This project 
+This project is licensed 
 
 
 
