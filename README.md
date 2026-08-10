@@ -157,7 +157,7 @@ This project is licensed under the MIT License.
 
 Kleber Vales
 
-Java | Spring | Kafka | Docker 
+Java | Spring | Kafka 
 
 
 
