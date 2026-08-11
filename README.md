@@ -159,7 +159,7 @@ Kleber Vales
 
 Java & Spring Software Engineer
 
-Microservices | Cloud | DevOps
+Microservices | Cloud 
 
 
 
