@@ -159,15 +159,3 @@ Kleber Vales
 
 Java & Spring Software Engineer
 
-Microservices 
-
-
-
-
-
-
-
-
-
-
-
