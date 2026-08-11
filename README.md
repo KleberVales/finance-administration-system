@@ -159,7 +159,7 @@ Kleber Vales
 
 Java & Spring Software Engineer
 
-Microservices | Cloud | DevOps | Kafka | Generative AI
+Microservices | Cloud | DevOps | Kafka 
 
 
 
