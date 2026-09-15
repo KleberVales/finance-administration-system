@@ -164,5 +164,6 @@ Certifications
 
 🏆 Oracle Certified Associate: Java 7 Programmer \
 🏆 Microsoft Technology Associate: Software 🏆 Development Fundamentals\
-🏆 Scrum Fundamentals Certified (SFC™)
+🏆 Scrum Fundamentals Certified (SFC™)\
+🏆 Oracle 
 
