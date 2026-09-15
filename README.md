@@ -153,4 +153,4 @@ Run all tests:
 
 Kleber Vales
 
-Software Engineer
+Software Engineer & AI Agent
