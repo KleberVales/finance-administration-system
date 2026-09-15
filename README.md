@@ -166,5 +166,5 @@ Certifications
 🏆 Microsoft Technology Associate: Software 🏆 Development Fundamentals\
 🏆 Scrum Fundamentals Certified (SFC™)\
 🏆 Oracle Cloud Infrastructure - DevOps Professional 
-🏆 Oracle Cloud Infrastructure- Generative AI Professional 
-🏆
+🏆 Oracle Cloud Infrastructure - Generative AI Professional 
+🏆 Agentc 
