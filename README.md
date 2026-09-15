@@ -155,4 +155,4 @@ Kleber Vales
 
 Software Engineer & AI Agent
 
-Cloud | DevOps | Generative AI |
+Cloud | DevOps | Generative AI | Agile
