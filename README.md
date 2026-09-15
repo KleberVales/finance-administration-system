@@ -158,4 +158,4 @@ Software Engineer & AI Agent
 Cloud | DevOps | Generative AI | Agile
 
 Bachelor's Degrees in Computer Science\
-MBA in Web 
+MBA in Web Software
