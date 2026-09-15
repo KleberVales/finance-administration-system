@@ -157,4 +157,4 @@ Software Engineer & AI Agent
 
 Cloud | DevOps | Generative AI | Agile
 
-degred's
+Bachelor's
