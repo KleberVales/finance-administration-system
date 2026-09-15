@@ -167,4 +167,4 @@ Certifications
 🏆 Scrum Fundamentals Certified (SFC™)\
 🏆 Oracle Cloud Infrastructure - DevOps Professional 
 🏆 Oracle Cloud Infrastructure - Generative AI Professional 
-🏆 Agentc AI Certified 
+🏆 Agentc AI Certified Fundamentals Associate 
