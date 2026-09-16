@@ -153,7 +153,7 @@ Run all tests:
 
 Kleber Vales
 
-Software Engineer & AI Agent
+Java with Spring Software Engineer & AI Agent
 
 Cloud | DevOps | Generative AI | Agile
 
