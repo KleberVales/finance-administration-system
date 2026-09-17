@@ -155,7 +155,7 @@ Kleber Vales
 
 Java with Spring Software Engineer & AI Agent
 
-Cloud | DevOps | Generative AI | Agile
+DevOps | Cloud | Generative AI | Agile
 
 Bachelor's Degrees in Computer Science\
 MBA in Web Software Development 
