@@ -151,7 +151,7 @@ Run all tests:
 
 ---
 
-Kleber Vales
+**Kleber Vales**
 
 Java with Spring Software Engineer & AI Agent
 
