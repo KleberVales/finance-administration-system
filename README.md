@@ -155,7 +155,7 @@ Run all tests:
 
 Java & Spring Software Engineer
 
-DevOps | Cloud | Generative AI | Agile
+DevOps | Cloud | Generative AI | Methodologies
 
 Bachelor's Degrees in Computer Science\
 MBA in Web Software Development 
