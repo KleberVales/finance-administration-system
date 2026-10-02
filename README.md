@@ -160,8 +160,7 @@ DevOps | Cloud | Generative AI | Methodologies | Architecture
 Bachelor's Degrees in Computer Science\
 MBA in Web Software Development 
 
-Certifications
-
+**Certifications**  
 🏆 Oracle Certified Associate: Java 7 Programmer \
 🏆 Microsoft Technology Associate: Software 🏆 Development Fundamentals\
 🏆 Scrum Fundamentals Certified (SFC™)\
