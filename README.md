@@ -165,5 +165,5 @@ MBA in Web Software Development
 🏆 **Microsoft MTA - Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure 2025 - DevOps Professional**  
-🏆 Oracle Cloud Infrastructure 2025 - Generative AI Professional\
+🏆 **Oracle Cloud Infrastructure 2025 - Generative AI Professional**  
 🏆 Agentic AI Certified Fundations Associate 
